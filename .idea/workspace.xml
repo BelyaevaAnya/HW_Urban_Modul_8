@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3612ff5-2dc9-4ec6-b753-00994c37a9d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/module_8_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CocnpectCreateExceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_8_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,12 +47,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.CocnpectCreateExceptions.executor": "Run",
     "Python.ConcpectErrors (2).executor": "Run",
     "Python.ConcpectErrors.executor": "Run",
     "Python.ConcpectTryExcept (2).executor": "Run",
     "Python.ConcpectTryExcept.executor": "Run",
     "Python.module_8_1.executor": "Run",
     "Python.module_8_2.executor": "Run",
+    "Python.module_8_3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/belae/PycharmProjects/HW_Urban_Modul_8/ConcpectTryExcept.py"
