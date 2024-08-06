@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3612ff5-2dc9-4ec6-b753-00994c37a9d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CocnpectCreateExceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_8_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeExeptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,7 @@
     "Python.ConcpectErrors.executor": "Run",
     "Python.ConcpectTryExcept (2).executor": "Run",
     "Python.ConcpectTryExcept.executor": "Run",
+    "Python.PracticeExeptions.executor": "Run",
     "Python.module_8_1.executor": "Run",
     "Python.module_8_2.executor": "Run",
     "Python.module_8_3.executor": "Run",
@@ -60,6 +61,11 @@
     "last_opened_file_path": "C:/Users/belae/PycharmProjects/HW_Urban_Modul_8/ConcpectTryExcept.py"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\belae\PycharmProjects\HW_Urban_Modul_8" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="ConcpectErrors (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HW_Urban_Modul_8" />
